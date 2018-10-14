@@ -1,4 +1,4 @@
-# python_ctype_structure_example
+# Native C to Python Example
 Simple example to show how C structures interact with Python.
 
 ## Requirements
